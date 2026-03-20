@@ -72,7 +72,7 @@ Automated the end-to-end pipeline using **Databricks Jobs**. Tasks are strictly 
 │
 └── 2_dashboarding/                          # BI, Reporting & Genie AI Layer
     ├── denormalise_table_query_fmcg.txt     # SQL Script for Gold analytical view
-    └── fmcg_dashboard.pdf                   # Exported Atlon BI 360 Dashboard
+    └── dashboarding.png                   # Exported Atlon BI 360 Dashboard
 ```
 
 ## Key Results
